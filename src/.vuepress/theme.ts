@@ -36,7 +36,7 @@ export default hopeTheme({
     intro: "/intro.html",
     medias: {
       //Baidu: "https://example.com",
-      BiliBili: "https://space.bilibili.com/277389829?spm_id_from=333.337.0.0",
+      BiliBili: "https://space.bilibili.com/277389829",
       //Bitbucket: "https://example.com",
      // Dingding: "https://example.com",
      // Discord: "https://example.com",
