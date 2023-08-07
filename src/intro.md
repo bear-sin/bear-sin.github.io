@@ -1,8 +1,10 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: /assets/images/cover5.jpg
 ---
 
-# 介绍页
+# 关于作者
 
-将你的个人介绍和档案放置在此处。
+雄性二足走地鸡，日常摸鱼划水瞎捣鼓
+
+还有啥慢慢更新

@@ -3,15 +3,15 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+heroImage: /assets/images/cover5.jpg
 heroText: Sin # 你博客的名称
 heroFullScreen: true
 tagline: Chasing the Winds # 你可以在这里放置你的口号与标语
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: 一些我做过的项目
+    desc: github仓库直通车
+    link: https://github.com/bear-sin?tab=repositories
 
   - icon: link
     name: 链接名称
@@ -38,11 +38,11 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
----
+footer: bear-sin's blog
 
-这是一个博客主页的案例。
 
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
+#这是一个博客主页的案例。
 
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。
+#要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
+
+#相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。
