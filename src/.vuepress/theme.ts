@@ -72,7 +72,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-       "/posts/With_Deer.html": ["1234"],                                                        //"/demo/encrypt.html": ["1234"],
+       "/posts/With_Deer/": ["Dear_Deer"],                                                        //"/demo/encrypt.html": ["1234"],
     },
   },
 
