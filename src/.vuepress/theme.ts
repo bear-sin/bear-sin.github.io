@@ -38,7 +38,7 @@ export default hopeTheme({
       //Baidu: "https://example.com",
       BiliBili: "https://space.bilibili.com/277389829",
       //Bitbucket: "https://example.com",
-     // Dingding: "https://example.com",123
+     // Dingding: "https://example.com",
      // Discord: "https://example.com",
      // Dribbble: "https://example.com",
       Email: "2282443447@qq.com",
