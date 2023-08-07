@@ -12,6 +12,10 @@ export default navbar([
         text: "With_Deer",
         icon: "pen-to-square",
         prefix: "With_Deer/",
+        config:  {
+              // 这会加密整个 guide 目录，并且两个密码都是可用的
+              "/guide/": ["1234", "5678"],
+            },
         children: [
           { text: "出去玩", icon: "pen-to-square", link: "1" }
 
