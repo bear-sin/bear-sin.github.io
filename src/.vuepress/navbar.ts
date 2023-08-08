@@ -24,6 +24,15 @@ export default navbar([
 
         ],
       },
+      {
+        text: "books",
+        icon: "pen-to-square",
+        prefix: "books/",
+        children: [
+          { text: "BOOK", icon: "pen-to-square", link: "book" }
+
+        ],
+      },
     ],
   },
 

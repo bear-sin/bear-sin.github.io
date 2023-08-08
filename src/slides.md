@@ -1,5 +1,5 @@
 ---
-title: 幻灯片页
+title: 可能的话放点无关紧要的照片出来
 icon: person-chalkboard
 layout: Slide
 ---
