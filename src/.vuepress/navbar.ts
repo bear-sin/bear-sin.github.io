@@ -15,6 +15,14 @@ export default navbar([
 
         ],
       },
+    ],
+  },
+
+  {
+    text: "编程",
+    icon: "pen-to-square",
+    prefix: "/posts/",
+    children: [
       {
         text: "Coding",
         icon: "pen-to-square",
@@ -24,6 +32,15 @@ export default navbar([
 
         ],
       },
+    ],
+  },
+
+
+  {
+    text: "悦读",
+    icon: "read",
+    prefix: "/posts/",
+    children: [
       {
         text: "books",
         icon: "pen-to-square",
@@ -37,4 +54,5 @@ export default navbar([
   },
 
 
+  
 ]);
