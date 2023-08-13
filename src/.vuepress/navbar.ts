@@ -53,6 +53,22 @@ export default navbar([
     ],
   },
 
+  {
+    text: "和基友们",
+    icon: "pen-to-square",
+    prefix: "/posts/",
+    children: [
+      {
+        text: "books",
+        icon: "pen-to-square",
+        prefix: "With_Friends/",
+        children: [
+          { text: "OUTING", icon: "pen-to-square", link: "playing" }
+
+        ],
+      },
+    ],
+  },
 
   
 ]);
