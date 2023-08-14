@@ -1,11 +1,11 @@
 ---
-home: true
+home: false
 layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: /assets/images/cover5.jpg
 heroText: Sin # 你博客的名称
-heroFullScreen: true
+heroFullScreen: false
 tagline: Chasing the Winds # 你可以在这里放置你的口号与标语
 projects:
   - icon: project

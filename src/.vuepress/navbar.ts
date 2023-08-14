@@ -15,6 +15,15 @@ export default navbar([
 
         ],
       },
+      {
+        text: "With_Friends",
+        icon: "pen-to-square",
+        prefix: "With_Friends/",
+        children: [
+          { text: "OUTING", icon: "pen-to-square", link: "playing" }
+
+        ],
+      },
     ],
   },
 
@@ -38,7 +47,7 @@ export default navbar([
 
   {
     text: "悦读",
-    icon: "read",
+    icon: "pen-to-square",
     prefix: "/posts/",
     children: [
       {
@@ -54,21 +63,23 @@ export default navbar([
   },
 
   {
-    text: "和基友们",
+    text: "涉及观念",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
       {
-        text: "books",
+        text: "Thinkings",
         icon: "pen-to-square",
-        prefix: "With_Friends/",
+        prefix: "Thinkings/",
         children: [
-          { text: "OUTING", icon: "pen-to-square", link: "playing" }
+          { text: "Thinkings", icon: "pen-to-square", link: "Thinkings" }
 
         ],
       },
     ],
   },
+
+  
 
   
 ]);

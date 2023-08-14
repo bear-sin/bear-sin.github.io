@@ -1,6 +1,5 @@
 ---
 icon: circle-info
-cover: /assets/images/cover5.jpg
 ---
 
 # 关于作者

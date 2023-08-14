@@ -1,5 +1,5 @@
 ---
-title: 可能的话放点无关紧要的照片出来
+title: 放点无关紧要的照片出来
 icon: person-chalkboard
 layout: Slide
 ---
