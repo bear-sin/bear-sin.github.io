@@ -11,7 +11,8 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "With_Deer/",
         children: [
-          { text: "OUTING", icon: "pen-to-square", link: "with_deer" }
+          { text: "OUTING", icon: "pen-to-square", link: "with_deer" },
+          { text: "HIGHLIGHT", icon: "pen-to-square", link: "spot" }
 
         ],
       },
