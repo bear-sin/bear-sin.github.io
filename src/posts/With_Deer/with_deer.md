@@ -100,6 +100,7 @@ tag:
 ![VuePress Hope 图标](/2023.8.18/7.jpg  =200x300)
 ![VuePress Hope 图标](/2023.8.18/8.jpg  =250x200)
 出来的时候还是下雨，两个人雨中找晚饭
+一路上k歌走起  最炫民族风yyds
 晚上吃的是海底捞，合照附上
 ![VuePress Hope 图标](/2023.8.18/6.jpg  =250x200)
 
@@ -126,12 +127,4 @@ tag:
 ![VuePress Hope 图标](/2023.8.19/5.jpg  =200x250)
 
 
-# 两人的离谱场面
 
-## 2023
-
-### 国泽泽
-
-![VuePress Hope 图标](/spot/1.jpg  =250x200)
-![VuePress Hope 图标](/spot/2.jpg  =250x200)
-![VuePress Hope 图标](/spot/3.jpg  =250x200)
