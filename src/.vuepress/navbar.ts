@@ -38,8 +38,9 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "Coding/",
         children: [
-          { text: "OVERVIEW", icon: "pen-to-square", link: "coding" }
-          { text: "GIT", icon: "pen-to-square", link: "git" }
+          { text: "OVERVIEW", icon: "pen-to-square", link: "coding" },
+          { text: "GIT", icon: "pen-to-square", link: "git" },
+          { text: "ARDUINO", icon: "pen-to-square", link: "arduino" }
         ],
       },
     ],

@@ -18,5 +18,5 @@ tag:
 从此江湖上流传着冬瓜排骨汤的故事
 ![VuePress Hope 图标](/spot/2.jpg  =250x300)
 ### 3
-以为隐藏的押韵鬼才
+一位隐藏的押韵鬼才
 ![VuePress Hope 图标](/spot/3.jpg  =250x500)
