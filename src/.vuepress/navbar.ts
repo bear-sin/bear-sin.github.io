@@ -21,7 +21,7 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "With_Friends/",
         children: [
-          { text: "OUTING", icon: "pen-to-square", link: "playing" }
+          { text: "WITH FRIENDS", icon: "pen-to-square", link: "playing" }
 
         ],
       },
@@ -38,8 +38,8 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "Coding/",
         children: [
-          { text: "OUTING", icon: "pen-to-square", link: "1" }
-
+          { text: "OVERVIEW", icon: "pen-to-square", link: "coding" }
+          { text: "GIT", icon: "pen-to-square", link: "git" }
         ],
       },
     ],
