@@ -61,9 +61,13 @@ tag:
 今天是家路想去看看的留学生展
 我顺便也想去浦东逛逛
 ![VuePress Hope 图标](/2024//4.20/1.jpg  =200x150)
+![VuePress Hope 图标](/2024//4.20/3.jpg  =150x200)
+![VuePress Hope 图标](/2024//4.20/6.jpg  =150x200)
+左右滑动实现大变美少女魔术
 ![VuePress Hope 图标](/2024//4.20/2.jpg  =200x150)
-![VuePress Hope 图标](/2024//4.20/3.jpg  =200x150)
-![VuePress Hope 图标](/2024//4.20/4.jpg  =200x150)
-
 ![VuePress Hope 图标](/2024//4.20/5.jpg  =200x150)
-![VuePress Hope 图标](/2024//4.20/6.jpg  =200x150)
+中午去吃了西塔老太太
+下午又回去玩了一圈，然后才走
+![VuePress Hope 图标](/2024//4.20/4.jpg  =150x200)
+
+
