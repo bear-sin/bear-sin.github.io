@@ -16,7 +16,7 @@ tag:
 就悄咪咪买了一对玩偶
 
 收到货的时候看起来很开心呢
-![VuePress Hope 图标](D:/blog/test/my-docs/src/.vuepress/public/2024//1.7/1.jpg)
+![VuePress Hope 图标](D:/blog/test/my-docs/src/.vuepress/public/2024/1.7/1.jpg)
 
 嘿嘿，搞惊喜永远顺利
 
