@@ -12,6 +12,7 @@ export default navbar([
         prefix: "With_Deer/",
         children: [
           { text: "OUTING", icon: "pen-to-square", link: "with_deer" },
+          { text: "OUTING", icon: "pen-to-square", link: "with_deer2" },
           { text: "HIGHLIGHT", icon: "pen-to-square", link: "spot" }
 
         ],
@@ -62,6 +63,22 @@ export default navbar([
         prefix: "books/",
         children: [
           { text: "BOOK", icon: "pen-to-square", link: "book" }
+
+        ],
+      },
+    ],
+  },
+  {
+    text: "资源共享",
+    icon: "pen-to-square",
+    prefix: "/posts/",
+    children: [
+      {
+        text: "SHARE",
+        icon: "pen-to-square",
+        prefix: "share/",
+        children: [
+          { text: "share", icon: "pen-to-square", link: "share" }
 
         ],
       },
