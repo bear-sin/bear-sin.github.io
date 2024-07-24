@@ -82,3 +82,46 @@ tag:
 ![VuePress Hope 图标](/2024/4.26/2.jpg)
 ![VuePress Hope 图标](/2024/4.26/3.jpg)
 ![VuePress Hope 图标](/2024/4.26/4.jpg)
+记得吃了生蚝滑蛋，不好吃
+
+## 4.29/30
+这些是五一节前这两天的库存照片
+每次回家都有人想我呢
+![VuePress Hope 图标](/2024/4.29/1.jpg)
+![VuePress Hope 图标](/2024/4.29/2.jpg)
+![VuePress Hope 图标](/2024/4.29/3.jpg)
+
+## 5.2
+这应该是五一最后一天我回来和家路一起去南桥吃烤肉的照片
+![VuePress Hope 图标](/2024/5.2/2.jpg)
+![VuePress Hope 图标](/2024/5.2/3.jpg)
+![VuePress Hope 图标](/2024/5.2/4.jpg)
+合照附上
+![VuePress Hope 图标](/2024/5.2/5.jpg)
+家路特地要我拍的一张，kiss kiss
+![VuePress Hope 图标](/2024/5.2/1.jpg)
+
+## 5.5/9
+这些是这两天的合照
+我也有点忘记当时发生什么了
+![VuePress Hope 图标](/2024/5.5/1.jpg)
+这个好像是家路第一次戴我的新帽子
+想拍照看看
+实名记录7.24开始家路因为防晒要借我的帽子
+![VuePress Hope 图标](/2024/5.5/2.jpg)
+
+## 5.24
+![VuePress Hope 图标](/2024/5.24/1.jpg)
+真心觉得下面这张是我这么久以来修图最好看的一张
+![VuePress Hope 图标](/2024/5.24/2.jpg)
+天气有点阴天，所以实际照片总体偏暗
+![VuePress Hope 图标](/2024/5.24/3.jpg)
+![VuePress Hope 图标](/2024/5.24/4.jpg)
+![VuePress Hope 图标](/2024/5.24/5.jpg)
+![VuePress Hope 图标](/2024/5.24/6.jpg)
+
+## 6.4
+发现上师大这边有一家超好吃的鸡公煲
+食材很新鲜很嫩
+这应该是我们最后一次在这里吃饭的时候拍的
+![VuePress Hope 图标](/2024/6.4/1.jpg)
