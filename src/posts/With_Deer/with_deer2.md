@@ -125,3 +125,38 @@ tag:
 食材很新鲜很嫩
 这应该是我们最后一次在这里吃饭的时候拍的
 ![VuePress Hope 图标](/2024/6.4/1.jpg)
+
+## 6.6
+这是一天上完晚课回来家路来接我
+拍到的家路姐姐的美照
+![VuePress Hope 图标](/2024/6.6/1.jpg)
+![VuePress Hope 图标](/2024/6.6/2.jpg)
+
+## 6.7
+忘记自己今天有什么事情了，就要回家
+家路也想去虹桥这边的多抓鱼看看
+就一起出发了
+
+路上遇到了一个游乐场
+![VuePress Hope 图标](/2024/6.7/1.jpg)
+![VuePress Hope 图标](/2024/6.7/2.jpg)
+![VuePress Hope 图标](/2024/6.7/3.jpg)
+![VuePress Hope 图标](/2024/6.7/4.jpg)
+这是在多抓鱼门口拍的照片
+![VuePress Hope 图标](/2024/6.7/5.jpg)
+然后出来寻找晚饭吃又找到了一个游乐场
+接着就拍到了各种表情包
+![VuePress Hope 图标](/2024/6.7/6.jpg)
+![VuePress Hope 图标](/2024/6.7/7.jpg)
+![VuePress Hope 图标](/2024/6.7/8.jpg)
+![VuePress Hope 图标](/2024/6.7/9.jpg)
+![VuePress Hope 图标](/2024/6.7/10.jpg)
+![VuePress Hope 图标](/2024/6.7/11.jpg)
+![VuePress Hope 图标](/2024/6.7/12.jpg)
+![VuePress Hope 图标](/2024/6.7/13.jpg)
+![VuePress Hope 图标](/2024/6.7/14.jpg)
+最后找到了一家鸡公煲
+吃到了烤半条青花鱼
+![VuePress Hope 图标](/2024/6.7/15.jpg)
+家路要回去了我拍到的照片
+![VuePress Hope 图标](/2024/6.7/16.jpg)
