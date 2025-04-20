@@ -7,7 +7,7 @@ export default navbar([
     prefix: "/posts/",
     children: [
       {
-        text: "With_Deer",
+        text: "SECRET",
         icon: "pen-to-square",
         prefix: "With_Deer/",
         children: [
@@ -22,7 +22,9 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "With_Friends/",
         children: [
-          { text: "WITH FRIENDS", icon: "pen-to-square", link: "playing" }
+          { text: "WITH FRIENDS", icon: "pen-to-square", link: "playing" },
+          { text: "WITH HASTIA", icon: "pen-to-square", link: "HASTIA" }
+
 
         ],
       },
