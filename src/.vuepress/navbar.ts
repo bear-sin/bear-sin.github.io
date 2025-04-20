@@ -6,17 +6,17 @@ export default navbar([
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
-      {
-        text: "SECRET",
-        icon: "pen-to-square",
-        prefix: "With_Deer/",
-        children: [
-          { text: "OUTING", icon: "pen-to-square", link: "with_deer" },
-          { text: "OUTING", icon: "pen-to-square", link: "with_deer2" },
-          { text: "HIGHLIGHT", icon: "pen-to-square", link: "spot" }
+      // {
+      //   text: "SECRET",
+      //   icon: "pen-to-square",
+      //   prefix: "With_Deer/",
+      //   children: [
+      //     { text: "OUTING", icon: "pen-to-square", link: "with_deer" },
+      //     { text: "OUTING", icon: "pen-to-square", link: "with_deer2" },
+      //     { text: "HIGHLIGHT", icon: "pen-to-square", link: "spot" }
 
-        ],
-      },
+      //   ],
+      // },
       {
         text: "With_Friends",
         icon: "pen-to-square",
