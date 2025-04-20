@@ -70,11 +70,11 @@ export default hopeTheme({
     },
   },
 
-  encrypt: {
-    config: {
-       "/posts/With_Deer/": ["Dear_Deer"],                                                        //"/demo/encrypt.html": ["1234"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //      "/posts/With_Deer/": ["Dear_Deer"],                                                        //"/demo/encrypt.html": ["1234"],
+  //   },
+  // },
 
   // page meta
   // metaLocales: {
