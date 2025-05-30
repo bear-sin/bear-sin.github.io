@@ -23,9 +23,9 @@ export default navbar([
         prefix: "With_Friends/",
         children: [
           { text: "WITH FRIENDS", icon: "pen-to-square", link: "playing" },
-          { text: "WITH HASTIA", icon: "pen-to-square", link: "HASTIA" },
-          { text: "WITH DEER", icon: "pen-to-square", link: "with_deer" },
-          { text: "WITH DEER2", icon: "pen-to-square", link: "with_deer2" }
+          { text: "WITH HASTIA", icon: "pen-to-square", link: "HASTIA" }
+          //{ text: "WITH DEER", icon: "pen-to-square", link: "with_deer" },
+          //{ text: "WITH DEER2", icon: "pen-to-square", link: "with_deer2" }
 
 
         ],
