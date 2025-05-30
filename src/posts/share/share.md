@@ -35,3 +35,21 @@ category:
 ### MusicFree 免费 多源 免费下载 上手简单
 网址：
 https://mp.weixin.qq.com/s?__biz=MzU5MTg1MzYzNA==&mid=2247495692&idx=1&sn=e114e29a05b0c98b3d768528f130e7a7&chksm=fe2a1121c95d9837a9d1800c37f3054f27cd24d8532298fa945f384fe5042be6d2fd0d8260b1&mpshare=1&scene=1&srcid=0824DFPOWmv0KvwGpCnhVzKR&sharer_sharetime=1692842014124&sharer_shareid=f7199026bac9e57383df532976a8107d#rd
+
+## 笔记软件 obsidian
+东洋推荐的软件，可能多年之后我已经不记得你的样貌了吧
+
+这个确实不错
+主要还是笔者工作量很大
+学习的东西也很多
+所以经常会出现半个月前学会的现在又要用
+但是自己已经记不起来了
+就只能重新上网找寻
+
+有这个反正可以自己整理保存
+这个软件自己也有优势
+知识点之间互相连接
+markdown语言我已经有基础了
+所以就可以快速入门
+
+好像阻碍我记笔记的最大的问题还是懒啊

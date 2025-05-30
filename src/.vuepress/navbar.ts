@@ -6,26 +6,26 @@ export default navbar([
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
-      {
-        text: "SECRET",
-        icon: "pen-to-square",
-        prefix: "With_Deer/",
-        children: [
-          { text: "OUTING", icon: "pen-to-square", link: "with_deer" },
-          { text: "OUTING", icon: "pen-to-square", link: "with_deer2" },
-          { text: "HIGHLIGHT", icon: "pen-to-square", link: "spot" }
+      // {
+      //   text: "SECRET",
+      //   icon: "pen-to-square",
+      //   prefix: "With_Deer/",
+      //   children: [
+      //     { text: "OUTING", icon: "pen-to-square", link: "with_deer" },
+      //     { text: "OUTING", icon: "pen-to-square", link: "with_deer2" },
+      //     { text: "HIGHLIGHT", icon: "pen-to-square", link: "spot" }
 
-        ],
-      },
+      //   ],
+      // },
       {
         text: "With_Friends",
         icon: "pen-to-square",
         prefix: "With_Friends/",
         children: [
           { text: "WITH FRIENDS", icon: "pen-to-square", link: "playing" },
-          { text: "WITH HASTIA", icon: "pen-to-square", link: "HASTIA" }
-          //{ text: "WITH DEER", icon: "pen-to-square", link: "with_deer" },
-          //{ text: "WITH DEER2", icon: "pen-to-square", link: "with_deer2" }
+          { text: "WITH HASTIA", icon: "pen-to-square", link: "HASTIA" },
+          { text: "WITH DEER", icon: "pen-to-square", link: "with_deer" },
+          { text: "WITH DEER2", icon: "pen-to-square", link: "with_deer2" }
 
 
         ],
