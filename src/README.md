@@ -13,10 +13,10 @@ projects:
     desc: github仓库直通车
     link: https://github.com/bear-sin?tab=repositories
 
-  # - icon: link
-  #   name: 链接名称
-  #   desc: 链接详细描述
-  #   link: https://链接地址
+  - icon: link
+    name: B站主页
+    desc: 保存了一些视频展示
+    link: https://space.bilibili.com/1440163309?spm_id_from=333.1007.0.0
 
   # - icon: book
   #   name: 书籍名称
