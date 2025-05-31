@@ -6,7 +6,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "Sin的博客",
-  description: "Sin 的博客演示",
+  description: "Sin 的博客",
 
   theme,
 

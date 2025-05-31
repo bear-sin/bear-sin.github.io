@@ -88,12 +88,12 @@ export default navbar([
     ],
   },
   {
-    text: "secret",
+    text: "SECRET",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
       {
-        text: "Coding",
+        text: "SECRET",
         icon: "pen-to-square",
         prefix: "With_Deer/",
         children: [
