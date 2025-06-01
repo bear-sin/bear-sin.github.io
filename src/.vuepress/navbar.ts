@@ -95,10 +95,10 @@ export default navbar([
       {
         text: "SECRET",
         icon: "pen-to-square",
-        prefix: "With_Deer/",
+        prefix: "With_Friends/",
         children: [
-          { text: "OUTING", icon: "pen-to-square", link: "with_deer" },
-          { text: "OUTING", icon: "pen-to-square", link: "with_deer2" },
+          { text: "DEER2023", icon: "pen-to-square", link: "with_deer" },
+          { text: "DEER2024", icon: "pen-to-square", link: "with_deer2" },
           { text: "HIGHLIGHT", icon: "pen-to-square", link: "spot" },
           { text: "WITH HASTIA", icon: "pen-to-square", link: "HASTIA" }
 
