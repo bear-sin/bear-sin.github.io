@@ -65,6 +65,6 @@ zsy一直说叫我早点到
 第一次体验了新饭店 胡子大厨？名字存疑
 然后标记一下第三个拿到毕业礼物的小朋友
 贴个照片
-![VuePress Hope 图标](/With_Friends/6.jpg  =400x300)
+![VuePress Hope 图标](/With_Friends/6.jpg  =450x300)
 期待下一次吧，不知不觉小石已经找了好多人了
 不错不错
