@@ -32,7 +32,7 @@ export default hopeTheme({
   displayFooter: true,
 
   blog: {
-    description: "a reader",
+    description: "a reader,a spy",
     intro: "/intro.html",
     medias: {
       //Baidu: "https://example.com",
@@ -72,7 +72,8 @@ export default hopeTheme({
 
   // encrypt: {
   //   config: {
-  //      "/posts/With_Deer/": ["Dear_Deer"],                                                        //"/demo/encrypt.html": ["1234"],
+  //      "/posts/Preasure/": ["Miyabi"],                                                        
+  //      "/demo/encrypt.html": ["1234"]
   //   },
   // },
 

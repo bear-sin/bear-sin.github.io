@@ -88,20 +88,16 @@ export default navbar([
     ],
   },
   {
-    text: "SECRET",
+    text: "Preasure",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
       {
-        text: "SECRET",
+        text: "Preasure",
         icon: "pen-to-square",
-        prefix: "Secret/",
+        prefix: "Preasure/",
         children: [
-          { text: "DEER2023", icon: "pen-to-square", link: "with_deer" },
-          { text: "DEER2024", icon: "pen-to-square", link: "with_deer2" },
-          { text: "HIGHLIGHT", icon: "pen-to-square", link: "spot" },
-          { text: "WITH HASTIA", icon: "pen-to-square", link: "HASTIA" }
-
+          { text: "HIGHLIGHT", icon: "pen-to-square", link: "spot" }
         ],
       },
     ],
