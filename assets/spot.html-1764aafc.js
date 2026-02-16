@@ -1,7 +1,0 @@
-import{_ as r}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as a,d as t,f as o}from"./app-b9680102.js";const s="/Preasure/2025/0.jpg",c="/Preasure/2025/1.jpg",i="/Preasure/2025/2.jpg",n={},p=o('<hr><p>icon: lock<br> category:</p><ul><li>使用指南</li></ul><hr><h1 id="recover" tabindex="-1"><a class="header-anchor" href="#recover" aria-hidden="true">#</a> recover</h1><p>好久不见<br> 人生就是一个大圈，兜兜转转又是似曾相识的原点<br> 只是现在再次站在同一个路口的我<br> 已经和之前不一样了</p><p>现在我有着更深的城府<br> 更丰富的经历<br> 有不一样的伙伴和我同行<br> 自然也会有不一样的选择<br> 走出不一样的路</p><p>同样的一样的路口<br> 不一样的机遇<br> 到现在更加感谢自己之前的经历<br> 让自己面对很多事情可以想到更多的对策</p><p>现在是雅儿老师 ，小雅，李帆，帆帆，小猫咪，小x猫，小李子的时间-</p><h1 id="雅儿老师" tabindex="-1"><a class="header-anchor" href="#雅儿老师" aria-hidden="true">#</a> 雅儿老师</h1><p>在小红书上小石遇到了雅儿老师<br> 雅儿老师诚招男友<br><img src="'+s+'" alt="VuePress Hope 图标" width="300" height="500" loading="lazy"><br> 试了试<br> 聊天发现比较合得来就约着线下见面了</p><p>第一次见面是去看星露谷物语的同人展<br> 然后到站小石无奈被ban手机<br> 靠着雅儿老师的照顾苟住了一天（感谢）</p><p>第二次是去一起唱歌<br> 真男人就是虽然身处不利的挑战<br> 但都可以勇敢接下</p><p><s>雅儿老师穿着小裙子好看捏</s><br><img src="'+c+'" alt="VuePress Hope 图标" width="450" height="300" loading="lazy"><br><img src="'+i+'" alt="VuePress Hope 图标" width="450" height="300" loading="lazy"><br> 这时候的印象是 雅儿老师是个很大方的人<br> 挺好相处<br> 然后也有共同的爱好吧<br> 家里条件也差不多，感觉走得久一点也没啥问题这种</p>',14);function b(h,l){return e(),a("div",null,[t(` ---
-icon: lock
-category:
-  - 使用指南
-tag:
-  - 文章加密
---- `),p])}const m=r(n,[["render",b],["__file","spot.html.vue"]]);export{m as default};
