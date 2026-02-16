@@ -175,3 +175,50 @@ category:
 一天早上老婆用这张模糊的照片唤醒了我的精神
 ![VuePress Hope 图标](/Preasure/2025/24.jpg  =500x300)
 
+### 2025.8.2
+范蕾姐姐给雅儿买了巧克力
+也算是告知家属了
+![VuePress Hope 图标](/Preasure/2025/25.jpg  =300x550)
+
+### 2025.8.3 蜡笔小新大电影
+和老婆去看电影了哦
+还是情侣座
+哇哦
+靠在一起好好玩
+![VuePress Hope 图标](/Preasure/2025/26.jpg  =500x300)
+看完电影和老婆出去走
+先上扶梯老婆气呼呼，嘿嘿
+![VuePress Hope 图标](/Preasure/2025/27.jpg  =300x450)
+继续偷亲
+![VuePress Hope 图标](/Preasure/2025/28.jpg  =300x450)
+
+### 2025.8.4
+送老婆去排练，老婆帮我拍的
+嘿嘿
+![VuePress Hope 图标](/Preasure/2025/29.jpg  =300x450)
+
+### 2025.8.6
+什么黑丝出没
+![VuePress Hope 图标](/Preasure/2025/30.jpg  =300x450)
+
+### 2025.8.7
+哄骗老婆多亲亲
+![VuePress Hope 图标](/Preasure/2025/31.jpg  =300x550)
+
+### 2025.8.8
+夸夸老婆
+想想老婆也是经常陪我玩一些有点幼稚的东西
+![VuePress Hope 图标](/Preasure/2025/32.jpg  =300x550)
+
+### 2025.8.9 瓦肆
+和老婆去看livehouse
+门票四百多吧
+平时不咋花钱刚看到门票有种割肉的感觉
+当时想着和老婆可以多相处，多了解，挺好的
+现在感觉很好的一次体验
+歌很好听
+也是难忘的回忆
+就是两点到家
+也是很难忘了
+![VuePress Hope 图标](/Preasure/2025/33.jpg  =500x300)
+![VuePress Hope 图标](/Preasure/2025/34.jpg  =500x300)
