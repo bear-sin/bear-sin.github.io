@@ -222,3 +222,61 @@ category:
 也是很难忘了
 ![VuePress Hope 图标](/Preasure/2025/33.jpg  =500x300)
 ![VuePress Hope 图标](/Preasure/2025/34.jpg  =500x300)
+
+### 2025.8.11 拍小蛇合照 东方明珠 迪士尼小店
+快乐拍照
+![VuePress Hope 图标](/Preasure/2025/35.jpg  =500x300)
+![VuePress Hope 图标](/Preasure/2025/36.jpg  =500x300)
+第一次上东方明珠
+![VuePress Hope 图标](/Preasure/2025/37.jpg  =500x300)
+给老婆买喜欢的玩具
+![VuePress Hope 图标](/Preasure/2025/38.jpg  =500x300)
+
+### 2025.8.13 上海书展
+这个可感慨了
+很想来
+和很多人都说一起来
+结果放了鸽子
+最后还是和老婆一起来的
+真的是最开始知道上海书展的消息绝对想不到这样的结局呢
+![VuePress Hope 图标](/Preasure/2025/39.jpg  =500x300)
+
+### 2025.8.14 上海天文馆
+努力抢票和超远行程之后可算到达了上海天文馆
+老婆说想来，那就来吧
+![VuePress Hope 图标](/Preasure/2025/40.jpg  =500x300)
+可爱老婆
+![VuePress Hope 图标](/Preasure/2025/41.jpg  =500x300)
+美腿欸，哇偶
+![VuePress Hope 图标](/Preasure/2025/42.jpg  =300x450)
+然后还有一些奇怪的合照
+两个人是两颗星星的感觉
+![VuePress Hope 图标](/Preasure/2025/43.jpg  =300x450)
+![VuePress Hope 图标](/Preasure/2025/44.jpg  =500x300)
+![VuePress Hope 图标](/Preasure/2025/45.jpg  =300x500)
+
+### 2025.8.16
+全新战袍，感谢老妈支持
+![VuePress Hope 图标](/Preasure/2025/46.jpg  =300x500)
+
+### 2025.8.17
+日常调戏老婆
+![VuePress Hope 图标](/Preasure/2025/48.jpg  =300x550)
+![VuePress Hope 图标](/Preasure/2025/47.jpg  =300x550)
+老婆丝袜照片好看哦
+
+### 2025.8.18
+记录一下老婆最近的朋友圈
+![VuePress Hope 图标](/Preasure/2025/49.jpg  =300x350)
+![VuePress Hope 图标](/Preasure/2025/50.jpg  =300x350)
+![VuePress Hope 图标](/Preasure/2025/51.jpg  =300x350)
+老婆的气质女仆装~~好诱人的大腿~~
+![VuePress Hope 图标](/Preasure/2025/52.jpg  =300x550)
+老婆展示合照
+![VuePress Hope 图标](/Preasure/2025/53.jpg  =550x400)
+老婆日常装扮
+![VuePress Hope 图标](/Preasure/2025/54.jpg  =300x450)
+
+### 2025.8.23
+继续送老婆培训
+![VuePress Hope 图标](/Preasure/2025/55.jpg  =300x450)
