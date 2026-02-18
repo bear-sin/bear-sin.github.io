@@ -280,3 +280,75 @@ category:
 ### 2025.8.23
 继续送老婆培训
 ![VuePress Hope 图标](/Preasure/2025/55.jpg  =300x450)
+
+### 2025.8.24 长宁来福士 虹桥热舞
+
+没记错的话上午去的是长宁来福士
+![VuePress Hope 图标](/Preasure/2025/56.jpg  =450x300)
+晚上去虹桥吃牛New
+![VuePress Hope 图标](/Preasure/2025/57.jpg  =450x300)
+![VuePress Hope 图标](/Preasure/2025/58.jpg  =450x300)
+吃完饭走到一楼看到热舞环节
+雅儿老师果断出击
+![VuePress Hope 图标](/Preasure/2025/59.jpg  =550x300)
+
+### 2025.8.29
+一些奇奇怪怪的碎碎照片
+
+送给老婆的花花
+![VuePress Hope 图标](/Preasure/2025/60.jpg  =300x450)
+前一天晚上的收税国王完全体
+![VuePress Hope 图标](/Preasure/2025/61.jpg  =300x450)
+老婆的猫猫出击
+![VuePress Hope 图标](/Preasure/2025/64.jpg  =550x300)
+这个像是港式饭
+![VuePress Hope 图标](/Preasure/2025/62.jpg  =550x300)
+宜家？叉腰老婆
+![VuePress Hope 图标](/Preasure/2025/63.jpg  =300x450)
+
+### 外传 写博客发现的小秘密
+好像老婆在博客里的形象可以有由我决定
+![VuePress Hope 图标](/Preasure/2025/63.jpg  =300x450)
+![VuePress Hope 图标](/Preasure/2025/63.jpg  =350x450)
+![VuePress Hope 图标](/Preasure/2025/63.jpg  =400x450)
+可以接受贿赂了
+嘿嘿
+
+### 2025.8.30
+老婆的暑假要结束啦
+
+先贴一下出生点合影
+![VuePress Hope 图标](/Preasure/2025/67.jpg  =300x450)
+先去了西岸的麦当劳总部？
+老婆带我进城长见识
+![VuePress Hope 图标](/Preasure/2025/65.jpg  =450x300)
+![VuePress Hope 图标](/Preasure/2025/66.jpg  =450x300)
+然后晚上在西岸找到了疯狂动物城的活动
+拍了点小照片
+
+~~我的酸奶我做主，酸奶我选……~~【广告位】
+![VuePress Hope 图标](/Preasure/2025/68.jpg  =450x300)
+![VuePress Hope 图标](/Preasure/2025/69.jpg  =450x300)
+
+### 2025.8.31 老婆送我墨镜了欸
+
+图片中的男人叫做小帅
+今天他的老婆小美送他了一副墨镜
+小帅很开心，遂拍照留念
+![VuePress Hope 图标](/Preasure/2025/70.jpg  =450x300)
+![VuePress Hope 图标](/Preasure/2025/71.jpg  =450x300)
+依旧干饭……这下知道怎么胖的了
+![VuePress Hope 图标](/Preasure/2025/72.jpg  =450x300)
+
+### 2025.9.2  记录一下老婆奇怪的小情绪
+
+大概是30号疯狂动物城拍照
+硬拉着老婆拍照开始的
+抱抱老婆
+![VuePress Hope 图标](/Preasure/2025/73.jpg  =300x450)
+
+### 2025.9.5 什么！我居然贪图老婆的屁股
+伟大无需多言
+![VuePress Hope 图标](/Preasure/2025/74.jpg  =300x450)
+
+### 2025.9.6 泡澡欸
