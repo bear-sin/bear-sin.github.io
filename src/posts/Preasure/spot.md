@@ -440,3 +440,71 @@ jojo快闪，老婆的拍照技术好厉害呀
 ![VuePress Hope 图标](/Preasure/2025/94.jpg  =400x250)
 亲亲亲亲亲亲亲亲亲亲亲亲
 ![VuePress Hope 图标](/Preasure/2025/95.jpg  =300x450)
+
+### 2025.10.2 做手工坐垫
+
+和老婆一起去做手工啦
+![VuePress Hope 图标](/Preasure/2025/96.jpg  =450x300)
+成品展示
+![VuePress Hope 图标](/Preasure/2025/97.jpg  =450x300)
+老婆给我拍的
+![VuePress Hope 图标](/Preasure/2025/98.jpg  =300x450)
+认真的美少女
+![VuePress Hope 图标](/Preasure/2025/99.jpg  =300x450)
+然后想起来这次后面好像是第一次
+陪老婆吃她很熟悉的新石器烤肉
+神奇的记忆能力
+
+### 2025.10.4 
+
+和老婆进行激情漫展准备
+哇哦
+香香的脚
+![VuePress Hope 图标](/Preasure/2025/100.jpg  =300x450)
+你能看见雅儿屁股上的小石吗
+感叹号出来啦
+雅儿很开心
+![VuePress Hope 图标](/Preasure/2025/101.jpg  =300x450)
+然后欣赏老婆的画画
+![VuePress Hope 图标](/Preasure/2025/102.jpg  =300x550)
+
+### 2025.10.7
+
+和老婆激情电玩
+![VuePress Hope 图标](/Preasure/2025/103.jpg  =400x250)
+
+### 2025.10.8 BW
+
+期待了好久的日子终于到啦
+老婆cos成了小乔欸
+一直幻想着的coser女友
+好可爱啊
+
+老婆出发前的私房照哦
+![VuePress Hope 图标](/Preasure/2025/104.jpg  =300x400)
+完蛋啦
+我被小乔大王抓住了
+![VuePress Hope 图标](/Preasure/2025/105.jpg  =300x400)
+可爱小乔大王
+![VuePress Hope 图标](/Preasure/2025/106.jpg  =300x400)
+生气小乔大王
+![VuePress Hope 图标](/Preasure/2025/107.jpg  =400x300)
+和老婆贴贴
+哇哦
+![VuePress Hope 图标](/Preasure/2025/108.jpg  =400x250)
+妖娆小乔
+![VuePress Hope 图标](/Preasure/2025/109.jpg  =400x250)
+爬楼小乔
+![VuePress Hope 图标](/Preasure/2025/110.jpg  =300x400)
+大合影阶段
+![VuePress Hope 图标](/Preasure/2025/111.jpg  =400x300)
+![VuePress Hope 图标](/Preasure/2025/112.jpg  =400x300)
+![VuePress Hope 图标](/Preasure/2025/113.jpg  =400x300)
+猜猜我是谁
+![VuePress Hope 图标](/Preasure/2025/114.jpg  =300x400)
+老婆做的可爱小照片
+![VuePress Hope 图标](/Preasure/2025/115.jpg  =300x400)
+![VuePress Hope 图标](/Preasure/2025/116.jpg  =300x400)
+![VuePress Hope 图标](/Preasure/2025/117.jpg  =300x300)
+
+下次老婆出c要帮她带上拖鞋哦
