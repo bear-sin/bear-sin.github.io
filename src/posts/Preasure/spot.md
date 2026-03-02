@@ -572,3 +572,10 @@ jojo快闪，老婆的拍照技术好厉害呀
 今天我就要摸老婆的屁股
 我敢谁敢阻拦我
 ![VuePress Hope 图标](/Preasure/2025/134.jpg  =400x300)
+
+### 2025.10.25 乐器展
+
+陪老婆来乐器展啦
+![VuePress Hope 图标](/Preasure/2025/135.jpg  =400x300)
+可爱老婆展示
+![VuePress Hope 图标](/Preasure/2025/136.jpg  =400x300)
