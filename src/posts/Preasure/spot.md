@@ -599,4 +599,26 @@ jojo快闪，老婆的拍照技术好厉害呀
 什么，发现了野生的三地鼠
 ![VuePress Hope 图标](/Preasure/2025/141.jpg  =400x300)
 
-### 
+### 2025.11.8
+
+这是今天可爱的老婆
+![VuePress Hope 图标](/Preasure/2025/142.jpg  =250x400)
+这是一对小情侣和一个电灯泡的故事
+![VuePress Hope 图标](/Preasure/2025/143.jpg  =450x300)
+![VuePress Hope 图标](/Preasure/2025/144.jpg  =400x350)
+
+### 2025.11.14
+
+郎豺女猫的一集
+![VuePress Hope 图标](/Preasure/2025/145.jpg  =300x400)
+
+### 2025.11.22 花鸟市场
+
+老婆带了新耳环哦
+看起来更成熟了
+![VuePress Hope 图标](/Preasure/2025/148.jpg  =300x400)
+中午吃左亭右院
+![VuePress Hope 图标](/Preasure/2025/147.jpg  =300x400)
+给小猪买了小仓鼠
+我们先玩
+![VuePress Hope 图标](/Preasure/2025/146.jpg  =300x400)
