@@ -622,3 +622,22 @@ jojo快闪，老婆的拍照技术好厉害呀
 给小猪买了小仓鼠
 我们先玩
 ![VuePress Hope 图标](/Preasure/2025/146.jpg  =300x400)
+
+### 2025.11.28
+
+这张照片老婆实在是太可爱了
+存一下
+![VuePress Hope 图标](/Preasure/2025/149.jpg  =300x400)
+
+### 2025.11.29 疯狂动物城2
+
+和老婆逛商场
+![VuePress Hope 图标](/Preasure/2025/150.jpg  =400x300)
+给老婆拍照片
+![VuePress Hope 图标](/Preasure/2025/151.jpg  =300x400)
+![VuePress Hope 图标](/Preasure/2025/152.jpg  =300x400)
+开始看电影了
+![VuePress Hope 图标](/Preasure/2025/153.jpg  =400x300)
+![VuePress Hope 图标](/Preasure/2025/154.jpg  =400x200)
+感觉电影很扎实
+但是没有第一步亮眼了吧
