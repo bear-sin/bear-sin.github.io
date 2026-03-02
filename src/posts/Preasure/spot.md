@@ -534,3 +534,41 @@ jojo快闪，老婆的拍照技术好厉害呀
 居然给老婆一张优惠票
 那就火速来陪老婆去迪士尼
 ![VuePress Hope 图标](/Preasure/2025/122.jpg  =400x250)
+
+漫长的等待，可爱老婆要睡觉了
+![VuePress Hope 图标](/Preasure/2025/123.jpg  =300x400)
+第一任务
+直奔疯狂动物城
+来的早加上赶路快
+一路畅通
+
+我们是新晋警员
+![VuePress Hope 图标](/Preasure/2025/124.jpg  =400x250)
+买了新帽子
+我是小狐狸
+还有一大兔子
+![VuePress Hope 图标](/Preasure/2025/125.jpg  =400x250)
+这是老婆帮我拍的帅哥照片
+![VuePress Hope 图标](/Preasure/2025/126.jpg  =300x400)
+这是大兔子的背影
+好可爱呀
+感觉抱起来很舒服呢
+![VuePress Hope 图标](/Preasure/2025/127.jpg  =300x400)
+可爱的正面照片哦
+![VuePress Hope 图标](/Preasure/2025/130.jpg  =300x400)
+登上海盗船啦
+![VuePress Hope 图标](/Preasure/2025/128.jpg  =300x400)
+什么！狐狸是被通缉的大坏蛋？ ！！！！
+![VuePress Hope 图标](/Preasure/2025/129.jpg  =300x400)
+还好
+正义的兔子将坏蛋绳之以法
+![VuePress Hope 图标](/Preasure/2025/131.jpg  =300x400)
+![VuePress Hope 图标](/Preasure/2025/132.jpg  =300x400)
+可喜可贺
+可喜可贺
+
+有很多好吃的
+![VuePress Hope 图标](/Preasure/2025/133.jpg  =400x300)
+今天我就要摸老婆的屁股
+我敢谁敢阻拦我
+![VuePress Hope 图标](/Preasure/2025/134.jpg  =400x300)
