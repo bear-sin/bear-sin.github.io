@@ -579,3 +579,24 @@ jojo快闪，老婆的拍照技术好厉害呀
 ![VuePress Hope 图标](/Preasure/2025/135.jpg  =400x300)
 可爱老婆展示
 ![VuePress Hope 图标](/Preasure/2025/136.jpg  =400x300)
+
+### 2025.11.1
+
+又和老婆出来玩啦
+发现宝可梦
+![VuePress Hope 图标](/Preasure/2025/137.jpg  =450x300)
+神图
+眼里有光的老婆
+![VuePress Hope 图标](/Preasure/2025/138.jpg  =300x400)
+可爱老婆和可爱阿尼亚
+![VuePress Hope 图标](/Preasure/2025/139.jpg  =400x300)
+
+有一只粘人小猫咪
+![VuePress Hope 图标](/Preasure/2025/140.jpg  =300x400)
+
+### 2025.11.3
+
+什么，发现了野生的三地鼠
+![VuePress Hope 图标](/Preasure/2025/141.jpg  =400x300)
+
+### 
