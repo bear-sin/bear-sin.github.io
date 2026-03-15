@@ -709,7 +709,7 @@ jojo快闪，老婆的拍照技术好厉害呀
 带熊熊一起看熊猫
 ![VuePress Hope 图标](/Preasure/2026/1/5.jpg  =450x300)
 
-### 2025.1.21 老婆生日
+### 2026.1.21 老婆生日
 准备了好久终于到了老婆的生日啦
 
 给老婆准备了很多pop子的盲盒
@@ -725,3 +725,23 @@ jojo快闪，老婆的拍照技术好厉害呀
 ![VuePress Hope 图标](/Preasure/2026/1/17.jpg  =450x300)
 还有最最最可爱的老婆
 ![VuePress Hope 图标](/Preasure/2026/1/18.jpg  =300x450)
+
+### 2026.1.24 上海海昌海洋公园
+
+老婆想去海洋公园
+那就出发吧
+
+在门口先拍一个合照
+![VuePress Hope 图标](/Preasure/2026/1/19.jpg  =450x300)
+看，有一只懒懒的海豹
+![VuePress Hope 图标](/Preasure/2026/1/20.jpg  =450x300)
+老婆可爱捏
+![VuePress Hope 图标](/Preasure/2026/1/21.jpg  =450x300)
+好大只海龟呀
+![VuePress Hope 图标](/Preasure/2026/1/22.jpg  =450x300)
+诶呀，在草丛遇到了野生的老徐
+![VuePress Hope 图标](/Preasure/2026/1/23.jpg  =450x300)
+雅儿居然是奥特曼？
+![VuePress Hope 图标](/Preasure/2026/1/24.jpg  =450x300)
+雅儿，企鹅模式
+![VuePress Hope 图标](/Preasure/2026/1/25.jpg  =450x300)
