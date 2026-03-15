@@ -656,3 +656,16 @@ jojo快闪，老婆的拍照技术好厉害呀
 请我吃海底捞欸
 ![VuePress Hope 图标](/Preasure/2025/156.jpg  =400x300)
 ![VuePress Hope 图标](/Preasure/2025/157.jpg  =300x400)
+嘻嘻，老婆还给我做了手工礼物
+老婆最好啦
+
+### 2025.12.6
+和老婆去跳舞哦
+![VuePress Hope 图标](/Preasure/2025/158.jpg  =300x400)
+
+### 2025.12.20 pop子和pipi美咖啡店
+老婆给我买了电话号记录牌哦
+![VuePress Hope 图标](/Preasure/2025/159.jpg  =300x400)
+在咖啡店吃吃喝喝
+美美拍照
+![VuePress Hope 图标](/Preasure/2025/160.jpg  =450x300)
