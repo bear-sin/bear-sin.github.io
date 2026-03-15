@@ -710,9 +710,18 @@ jojo快闪，老婆的拍照技术好厉害呀
 ![VuePress Hope 图标](/Preasure/2026/1/5.jpg  =450x300)
 
 ### 2025.1.21 老婆生日
+准备了好久终于到了老婆的生日啦
+
+给老婆准备了很多pop子的盲盒
+卡片，徽章
 ![VuePress Hope 图标](/Preasure/2026/1/13.jpg  =450x300)
+战果展示
 ![VuePress Hope 图标](/Preasure/2026/1/14.jpg  =450x300)
+买的花花
 ![VuePress Hope 图标](/Preasure/2026/1/15.jpg  =450x300)
-![VuePress Hope 图标](/Preasure/2026/1/16.jpg  =450x300)
+超可爱蛋糕
+![VuePress Hope 图标](/Preasure/2026/1/16.jpg  =450x350)
+老婆最喜欢的蓝莓酱香蕉
 ![VuePress Hope 图标](/Preasure/2026/1/17.jpg  =450x300)
-![VuePress Hope 图标](/Preasure/2026/1/17.jpg  =450x300)
+还有最最最可爱的老婆
+![VuePress Hope 图标](/Preasure/2026/1/18.jpg  =300x450)
