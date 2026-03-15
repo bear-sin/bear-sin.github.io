@@ -669,3 +669,50 @@ jojo快闪，老婆的拍照技术好厉害呀
 在咖啡店吃吃喝喝
 美美拍照
 ![VuePress Hope 图标](/Preasure/2025/160.jpg  =450x300)
+
+### 2025.12.25 接老婆放学
+接老婆放学去吃烤肉
+美女合照
+![VuePress Hope 图标](/Preasure/2025/161.jpg  =450x300)
+
+## 2026
+### 2026.1.1 江南百草园
+元旦小假期
+和老婆一起去浙江安吉玩
+第一天行程是江南百草园
+
+在门口，下着小雨
+![VuePress Hope 图标](/Preasure/2026/1/1.jpg  =450x300)
+什么！有一只kuma跑出来了
+![VuePress Hope 图标](/Preasure/2026/1/2.jpg  =450x300)
+诶呀，晚上被熊熊抓住了
+![VuePress Hope 图标](/Preasure/2026/1/3.jpg  =300x450)
+
+### 2026.1.2 安吉旅游区
+第二天来到了好玩的地方啦
+和老婆先合影
+![VuePress Hope 图标](/Preasure/2026/1/4.jpg  =450x300)
+到山顶吃肉肠
+![VuePress Hope 图标](/Preasure/2026/1/6.jpg  =450x300)
+老婆在拍好看的照片
+![VuePress Hope 图标](/Preasure/2026/1/7.jpg  =300x400)
+老婆好好哦，帮我捂耳朵
+开心
+![VuePress Hope 图标](/Preasure/2026/1/8.jpg  =450x300)
+老婆今天超级好看
+![VuePress Hope 图标](/Preasure/2026/1/9.jpg  =300x400)
+和老婆拍帅帅的照片
+![VuePress Hope 图标](/Preasure/2026/1/10.jpg  =300x450)
+![VuePress Hope 图标](/Preasure/2026/1/11.jpg  =300x450)
+看老婆帅气开卡丁车
+![VuePress Hope 图标](/Preasure/2026/1/12.jpg  =300x400)
+带熊熊一起看熊猫
+![VuePress Hope 图标](/Preasure/2026/1/5.jpg  =450x300)
+
+### 2025.1.21 老婆生日
+![VuePress Hope 图标](/Preasure/2026/1/13.jpg  =450x300)
+![VuePress Hope 图标](/Preasure/2026/1/14.jpg  =450x300)
+![VuePress Hope 图标](/Preasure/2026/1/15.jpg  =450x300)
+![VuePress Hope 图标](/Preasure/2026/1/16.jpg  =450x300)
+![VuePress Hope 图标](/Preasure/2026/1/17.jpg  =450x300)
+![VuePress Hope 图标](/Preasure/2026/1/17.jpg  =450x300)
